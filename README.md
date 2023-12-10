@@ -5,6 +5,7 @@ This is a group project done under the module EN1190 Engineering Design project,
 The task description of the project is as follows.
 
 1. Introduction
+   
 This dryer is designed to transform the conventional approach to drying spices, shoes, and other items in both rural and urban households. By integrating an advanced sun tracking system using Light-Dependent Resistors (LDR) sensors, this dryer autonomously follows the sun's movement throughout the day, ensuring optimal exposure to sunlight for efficient and eco-friendly drying.
 
 2. Key Features
