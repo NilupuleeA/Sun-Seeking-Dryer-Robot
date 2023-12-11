@@ -2,7 +2,7 @@
 
 This is a group project done under the module EN1190 Engineering Design project, Semester 2 of the Department of Electronic and Telecommunication Engineering.
 
-The task description of the project is as follows.
+The project description of the project is as follows.
 
 1. Introduction
    
