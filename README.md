@@ -13,4 +13,7 @@ This is a group project done under the module EN1190 Engineering Design project,
 
 - Effortless Drying: The Sun Seeking Dryer simplifies the drying process, making it accessible to everyone in the community.
 
-https://github.com/NilupuleeA/Sun-Seeking-Dryer-Robot/assets/153465850/fe5f4ecb-a102-485a-a90a-fa2864c2f942
+![Final_Product](https://github.com/NilupuleeA/Sun-Seeking-Dryer-Robot/assets/153465850/3b08f496-d7c0-4811-8467-5811814fb928)
+
+https://github.com/NilupuleeA/Sun-Seeking-Dryer-Robot/assets/153465850/cd82b63b-5a86-44f9-a196-c00ea6002b2a
+
